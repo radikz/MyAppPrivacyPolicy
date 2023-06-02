@@ -3,13 +3,15 @@ Privacy Policy - Password Generator
 Your privacy is important to us. This Privacy Policy outlines how Password Generator Pro ("the App") collects, uses, and safeguards your personal information. By using the App, you consent to the practices described in this policy. Please read this Privacy Policy carefully to understand our practices regarding your personal information.
 
 Information We Collect:
-a. Personal Information: The App does not collect any personal information such as your name, email address, or contact details. All password generation and management occur locally on your device.
+Personal Information: The App does not collect any personal information such as your name, email address, or contact details. All password generation and management occur locally on your device.
 
 Use of Information:
 Personal Information: Since we do not collect personal information, we do not use it for any purpose.
 
 Data Security:
+
 a. Password Encryption: All passwords generated and stored in the App are strongly encrypted using AES-256, a secure encryption algorithm. This encryption ensures that your passwords remain protected and unreadable to unauthorized individuals.
+
 b. Offline Storage: Your password data is stored locally on your device and is not transmitted or stored on external servers. This approach enhances the security and privacy of your information.
 
 Disclosure of Information:
